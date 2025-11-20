@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://your-cover-photo-link.com/banner.png" alt="Cover Banner" width="100%">
-</p>
-
-<h1 align="center">Hisham Khan</h1>
-<p align="center">
-<strong>Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast</strong>
-</p>
+# Hisham Khan
+**Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hisham-khan-617005392">LinkedIn</a> • 
