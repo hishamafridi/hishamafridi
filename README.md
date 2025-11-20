@@ -14,7 +14,7 @@
 
 **AI Tools Proficiency**  
 <p align="center">
-Lovable • Cursor • Windsurf • Replit • Trae AI • Claude • Deepseek
+• Trae AI • Claude • Deepseek
 </p>
 
 ---
