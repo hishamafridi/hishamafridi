@@ -1,4 +1,5 @@
 # Hisham Khan
+
 **Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast**
 
 <p align="center">
@@ -12,7 +13,7 @@
 ## Technical Expertise
 
 **AI Tools Proficiency**  
-Lovable • Cursor • Windsurf • Replit • Trae AI • Claude • Deepseek
+ChatGPT
 
 ---
 
