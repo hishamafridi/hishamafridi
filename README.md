@@ -5,7 +5,8 @@
 <p align="center">
 [LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • 
 [Gmail](mailto:hishamkhan1450@gmail.com) • 
-[GitHub](https://github.com/hishamafridi)
+[GitHub](https://github.com/hishamafridi) • 
+[Portfolio](https://cssproject.vercel.app/)
 </p>
 
 ---
@@ -68,7 +69,7 @@ Git • GitHub • Jira • Figma
 
 ## Professional Connections
 
-[LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • [Gmail](mailto:hishamkhan1450@gmail.com) • [GitHub](https://github.com/hishamafridi)
+[LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • [Gmail](mailto:hishamkhan1450@gmail.com) • [GitHub](https://github.com/hishamafridi) • [Portfolio](https://cssproject.vercel.app/)
 
 ---
 
