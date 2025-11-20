@@ -9,8 +9,7 @@
 <p align="center">
 [LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • 
 [Gmail](mailto:hishamkhan1450@gmail.com) • 
-[GitHub](https://github.com/hishamafridi) • 
-[Portfolio](https://cssproject.vercel.app/)
+[GitHub](https://github.com/hishamafridi)
 </p>
 
 ---
@@ -19,6 +18,9 @@
 
 **AI Tools Proficiency**  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-03C75A?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-5B21B6?style=for-the-badge&logo=unknown&logoColor=white)
+![Trae AI](https://img.shields.io/badge/Trae_AI-FF6F61?style=for-the-badge&logo=unknown&logoColor=white)
+![Deepseek](https://img.shields.io/badge/Deepseek-0EA5E9?style=for-the-badge&logo=unknown&logoColor=white)
 
 ---
 
@@ -71,19 +73,9 @@ I am a Full-Stack Software Engineer skilled in building **scalable web applicati
 
 ---
 
-## Portfolio Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Virtual Google Assistant** | Converts lectures’ speech to text using **BART**, summarizes content using **BERT**, finds external resources (YouTube, websites, research papers), and displays relevant links. Backend: Django, APIs. | Python, Django, BART, BERT, APIs |
-| **Ease Shop** | E-commerce website with frontend in HTML, CSS, JavaScript, React, and backend using Express | HTML, CSS, JavaScript, React, Express, Node.js |
-| **Scoot** | Figma design converted into responsive HTML & CSS website | HTML, CSS, Figma |
-
----
-
 ## Professional Connections
 
-[LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • [Gmail](mailto:hishamkhan1450@gmail.com) • [GitHub](https://github.com/hishamafridi) • [Portfolio](https://cssproject.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • [Gmail](mailto:hishamkhan1450@gmail.com) • [GitHub](https://github.com/hishamafridi)
 
 ---
 
