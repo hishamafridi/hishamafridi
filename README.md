@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-banner-image-link-here.com/banner.png" alt="Hisham Khan Banner" width="100%" />
+</p>
+
 # Hisham Khan
 
 **Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast**
@@ -20,7 +24,7 @@ ChatGPT
 
 ## Professional Summary
 
-I am a Full-Stack Software Engineer skilled in building scalable web applications with React.js, Next.js, and TypeScript for frontend, and Node.js, Express, MongoDB, and Django for backend development. I focus on writing clean, performant code and delivering efficient solutions.
+I am a Full-Stack Software Engineer skilled in building scalable web applications with **React.js, Next.js, and TypeScript** for frontend, and **Node.js, Express, MongoDB, and Django** for backend development. I focus on writing **clean, performant code** and delivering **efficient solutions**.
 
 ---
 
