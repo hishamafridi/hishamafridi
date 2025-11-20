@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-link-here.com/banner.png" alt="Hisham Khan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hishamafridi/cssproject/main/banner.png" alt="Hisham Khan Banner" width="100%" />
 </p>
 
 # Hisham Khan
@@ -7,15 +7,9 @@
 **Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hisham-khan-617005392">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hishamkhan1450@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/hishamafridi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-khan-617005392)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hishamkhan1450@gmail.com)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hishamafridi)
 </p>
 
 ---
@@ -24,10 +18,10 @@
 
 **AI Tools Proficiency**  
 <p align="center">
-  ![ChatGPT](https://img.shields.io/badge/ChatGPT-03C75A?style=for-the-badge&logo=openai&logoColor=white) 
-  ![Claude](https://img.shields.io/badge/Claude-5B21B6?style=for-the-badge&logo=unknown&logoColor=white) 
-  ![Trae AI](https://img.shields.io/badge/Trae_AI-FF6F61?style=for-the-badge&logo=unknown&logoColor=white) 
-  ![Deepseek](https://img.shields.io/badge/Deepseek-0EA5E9?style=for-the-badge&logo=unknown&logoColor=white)
+  [![ChatGPT](https://img.shields.io/badge/ChatGPT-03C75A?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/) 
+  [![Claude](https://img.shields.io/badge/Claude-5B21B6?style=for-the-badge)](https://www.anthropic.com/) 
+  [![Trae AI](https://img.shields.io/badge/Trae_AI-FF6F61?style=for-the-badge)](https://trae.ai/) 
+  [![Deepseek](https://img.shields.io/badge/Deepseek-0EA5E9?style=for-the-badge)](https://deepseek.ai/)
 </p>
 
 ---
@@ -92,16 +86,20 @@ I am a Full-Stack Software Engineer skilled in building **scalable web applicati
 ## Professional Connections
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hisham-khan-617005392">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hishamkhan1450@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/hishamafridi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-khan-617005392)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hishamkhan1450@gmail.com)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hishamafridi)
 </p>
+
+---
+
+## Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Virtual Google Assistant**](https://github.com/hishamafridi/Virtual-Google-Assistant) | Converts lectures’ speech to text using **BART**, summarizes content using **BERT**, finds external resources (YouTube, websites, research papers), and displays relevant links. Backend: Django, APIs. | Python, Django, BART, BERT, APIs |
+| [**Ease Shop**](https://github.com/hishamafridi/Ease-Shop) | E-commerce website with frontend in HTML, CSS, JavaScript, React, and backend using Express | HTML, CSS, JavaScript, React, Express, Node.js |
+| [**Scoot**](https://github.com/hishamafridi/Scoot) | Figma design converted into responsive HTML & CSS website | HTML, CSS, Figma |
 
 ---
 
