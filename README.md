@@ -3,9 +3,9 @@
 **Software Engineer | Full-Stack Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Node.js, Express, MongoDB | Git/GitHub | AI Tools Enthusiast**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hisham-khan-617005392">LinkedIn</a> • 
-<a href="mailto:hishamkhan1450@gmail.com">Gmail</a> • 
-<a href="https://github.com/hishamafridi">GitHub</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -78,7 +78,9 @@ I am a Full-Stack Software Engineer skilled in building **scalable web applicati
 
 ## Professional Connections
 <p align="center">
-[LinkedIn](https://www.linkedin.com/in/hisham-khan-617005392) • [Gmail](mailto:hishamkhan1450@gmail.com) • [GitHub](https://github.com/hishamafridi)
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -87,9 +89,9 @@ I am a Full-Stack Software Engineer skilled in building **scalable web applicati
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Virtual Google Assistant**](https://github.com/hishamafridi/Virtual-Google-Assistant) | Converts lectures’ speech to text using **BART**, summarizes content using **BERT**, finds external resources (YouTube, websites, research papers), and displays relevant links. Backend: Django, APIs. | Python, Django, BART, BERT, APIs |
-| [**Ease Shop**](https://github.com/hishamafridi/Ease-Shop) | E-commerce website with frontend in HTML, CSS, JavaScript, React, and backend using Express | HTML, CSS, JavaScript, React, Express, Node.js |
-| [**Scoot**](https://github.com/hishamafridi/Scoot) | Figma design converted into responsive HTML & CSS website | HTML, CSS, Figma |
+| [**Virtual Google Assistant**](https://github.com/hishamafridi?tab=repositories) | Converts lectures’ speech to text using **BART**, summarizes content using **BERT**, finds external resources (YouTube, websites, research papers), and displays relevant links. Backend: Django, APIs. | Python, Django, BART, BERT, APIs |
+| [**Ease Shop**](https://github.com/hishamafridi?tab=repositories) | E-commerce website with frontend in HTML, CSS, JavaScript, React, and backend using Express | HTML, CSS, JavaScript, React, Express, Node.js |
+| [**Scoot**](https://github.com/hishamafridi?tab=repositories) | Figma design converted into responsive HTML & CSS website | HTML, CSS, Figma |
 
 ---
 
